@@ -1,0 +1,6 @@
+framework module FaAutoCircleView {
+  umbrella header "FaAutoCircleView-umbrella.h"
+
+  export *
+  module * { export * }
+}

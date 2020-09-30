@@ -1,0 +1,16 @@
+PODS:
+  - FaAutoCircleView (0.0.1)
+
+DEPENDENCIES:
+  - FaAutoCircleView (from `../`)
+
+EXTERNAL SOURCES:
+  FaAutoCircleView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FaAutoCircleView: dcc9ba118c06322c8e7c4a12f3db89be66ff192f
+
+PODFILE CHECKSUM: fd36ba82d1b1ad4408ad47fc76f2c3cc65617f17
+
+COCOAPODS: 1.9.1

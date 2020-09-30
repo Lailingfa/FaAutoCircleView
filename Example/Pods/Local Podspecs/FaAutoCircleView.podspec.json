@@ -1,0 +1,22 @@
+{
+  "name": "FaAutoCircleView",
+  "version": "0.0.1",
+  "summary": "FaAutoCircleView",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://www.betterstyle.top",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "313698190@qq.com": "31398190@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Lailingfa/FaAutoCircleView.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FaAutoCircleView/Classes/**/*"
+}
